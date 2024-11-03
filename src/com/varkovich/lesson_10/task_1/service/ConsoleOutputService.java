@@ -1,8 +1,8 @@
-package com.varkovich.lesson_10.task_1.module.service;
+package com.varkovich.lesson_10.task_1.service;
 
 import com.varkovich.lesson_10.task_1.module.card.Card;
 import com.varkovich.lesson_10.task_1.module.client.IndividualClient;
-import com.varkovich.lesson_10.task_1.module.utils.AnalyzerClientCardsState;
+import com.varkovich.lesson_10.task_1.utils.AnalyzerClientCardsState;
 
 import java.util.Map;
 

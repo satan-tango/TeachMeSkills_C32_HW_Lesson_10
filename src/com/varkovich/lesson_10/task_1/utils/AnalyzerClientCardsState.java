@@ -1,4 +1,4 @@
-package com.varkovich.lesson_10.task_1.module.utils;
+package com.varkovich.lesson_10.task_1.utils;
 
 public enum AnalyzerClientCardsState {
     NO_CARDS("Client does not have cards."),

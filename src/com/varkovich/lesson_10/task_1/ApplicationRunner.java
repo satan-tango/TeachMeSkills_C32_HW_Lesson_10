@@ -2,7 +2,7 @@ package com.varkovich.lesson_10.task_1;
 
 import com.varkovich.lesson_10.task_1.module.card.Card;
 import com.varkovich.lesson_10.task_1.module.client.IndividualClient;
-import com.varkovich.lesson_10.task_1.module.service.ConsoleOutputService;
+import com.varkovich.lesson_10.task_1.service.ConsoleOutputService;
 
 
 /**

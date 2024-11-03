@@ -1,4 +1,4 @@
-package com.varkovich.lesson_10.task_1.module.service;
+package com.varkovich.lesson_10.task_1.service;
 
 import com.varkovich.lesson_10.task_1.module.card.Card;
 
