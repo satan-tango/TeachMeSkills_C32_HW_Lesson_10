@@ -5,7 +5,7 @@ public enum AnalyzerClientCardsState {
     ONLY_ONE_CARD("Client has only one card."),
     READY_TO_FINDING_IDENTICAL_CARDS("Client has more then 2 cards, ready to find identical cards.");
 
-    private String commentary;
+    private final String commentary;
 
     AnalyzerClientCardsState(String commentary) {
         this.commentary = commentary;
